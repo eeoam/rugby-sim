@@ -1,0 +1,16 @@
+Match,Round,Home_Team,Away_Team,Home_Score,Away_Score,Diff,Home_Win,Away_Win,Draw,Home_Country,Away_Country
+1,1,Wales,Ireland,10,34,24,0,1,0,Wales,Ireland
+2,1,England,Scotland,23,29,6,0,1,0,England,Scotland
+3,1,Italy,France,24,29,5,0,1,0,Italy,France
+4,2,Ireland,France,32,19,13,1,0,0,Ireland,France
+5,2,Scotland,Wales,35,7,28,1,0,0,Scotland,Wales
+6,2,England,Italy,31,14,17,1,0,0,England,Italy
+7,3,Italy,Ireland,20,34,14,0,1,0,Italy,Ireland
+8,3,Wales,England,10,20,10,0,1,0,Wales,England
+9,3,France,Scotland,32,21,11,1,0,0,France,Scotland
+10,4,Italy,Wales,17,29,12,0,1,0,Italy,Wales
+11,4,England,France,10,53,43,0,1,0,England,France
+12,4,Scotland,Ireland,7,22,15,0,1,0,Scotland,Ireland
+13,5,Scotland,Italy,29,14,15,1,0,0,Scotland,Italy
+14,5,France,Wales,41,28,13,1,0,0,France,Wales
+15,5,Ireland,England,29,19,10,1,0,0,Ireland,England
